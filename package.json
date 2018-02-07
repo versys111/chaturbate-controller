@@ -1,5 +1,5 @@
 {
-  "name": "@paulallen87/chaturbate-controller",
+  "name": "@versys111/chaturbate-controller",
   "version": "1.0.15",
   "description": "A module for tracking the state of a Chaturbate profile.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulallen87/chaturbate-controller.git"
+    "url": "git+https://github.com/versys111/chaturbate-controller.git"
   },
   "keywords": [
     "chaturbate"
@@ -22,9 +22,9 @@
   "author": "“Paul Allen <“paul.allen.87.555@gmail.com”>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/paulallen87/chaturbate-controller/issues"
+    "url": "https://github.com/versys111/chaturbate-controller/issues"
   },
-  "homepage": "https://github.com/paulallen87/chaturbate-controller#readme",
+  "homepage": "https://github.com/versys111/chaturbate-controller#readme",
   "devDependencies": {
     "chai": "^4.0.2",
     "coveralls": "^2.13.1",
