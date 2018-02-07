@@ -36,8 +36,8 @@
     "mocha": "^3.4.2"
   },
   "dependencies": {
-    "@paulallen87/chaturbate-events": "^1.1.6",
-    "@paulallen87/chaturbate-panel-parser": "^1.0.4",
+    "@versys111/chaturbate-events": "^1.1.6",
+    "@versys111/chaturbate-panel-parser": "^1.0.4",
     "cheerio": "^1.0.0-rc.1",
     "debug": "^2.6.8"
   }
